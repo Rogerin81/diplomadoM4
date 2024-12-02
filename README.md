@@ -18,3 +18,8 @@
     ```bash
     npm run start
     ```
+- Referencias
+    ```bash
+    Creado por Roger Armando Ibarra Chavarría
+    Cel: 72881497
+    ```
